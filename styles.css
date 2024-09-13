@@ -115,12 +115,12 @@
     }
 
     th:nth-child(3) {
-        width: 350px;
+        width: 500px;
         text-align: center;
     }
 
     td:nth-child(3) {
-        width: 350px;
+        width: 500px;
         text-align: left;
     }
 
